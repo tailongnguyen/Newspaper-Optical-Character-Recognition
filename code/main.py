@@ -23,7 +23,7 @@ FILTER = args.filter
 
 M = CRNN(output_dim=226)
 # M.model.load_weights('new_crnn_multi.h5')
-M.model.load_weights('crnn_multi.h5')
+M.model.load_weights('../weights/crnn_multi.h5')
 print "Loaded model!"
 
 # dcd = decoder.BeamLMDecoder()
@@ -48,7 +48,7 @@ while 1:
         for sec in section:
             batch = [reshape(sec[line[0]:line[1]+1, :]) for line in extract_lines(sec)]
             pad_lines = pad_sequences(batch, padding='post', value=255.0)
-            pred(pad_lines, M, text_file, False)
+            pred(pad_lines, M, text_file, print_screen=True, return_text =False)
 
         text_file.close()
     print "DONE IN %fs." % (time.time() - now)
