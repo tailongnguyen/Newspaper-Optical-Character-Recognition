@@ -1,0 +1,202 @@
+Training on a:
+0/150908: 0.512201
+Training on carbonic:
+50/150908: 1.114515
+Training on thị:
+100/150908: 1.030066
+Training on cá:
+150/150908: 0.722951
+Training on giáp:
+200/150908: 0.620050
+Training on tải:
+250/150908: 0.544887
+Training on đủ:
+300/150908: 0.849006
+Training on tiêu:
+350/150908: 0.716496
+Training on tố:
+400/150908: 0.787950
+Training on loát:
+450/150908: 0.563539
+Training on quân:
+500/150908: 0.538988
+Training on diệp:
+550/150908: 0.450273
+Training on nại:
+600/150908: 0.356170
+Training on tay:
+650/150908: 0.333873
+Training on sỉ:
+700/150908: 0.529544
+Training on bao:
+750/150908: 0.421153
+Training on tổ:
+800/150908: 0.387191
+Training on phi:
+850/150908: 0.417843
+Training on loạn:
+900/150908: 0.388656
+Training on ngược:
+950/150908: 0.451781
+Training on tốc:
+1000/150908: 0.426197
+Training on nạt:
+1050/150908: 0.493226
+Training on khuất:
+1100/150908: 0.492181
+Training on nay:
+1150/150908: 0.525881
+Training on beta:
+1200/150908: 0.403738
+Training on đỏ:
+1250/150908: 0.453858
+Training on biết:
+1300/150908: 0.410310
+Training on bíp:
+1350/150908: 0.574515
+Training on nẹt:
+1400/150908: 0.442380
+Training on chốc:
+1450/150908: 0.367324
+Training on hóng:
+1500/150908: 0.423933
+Training on bồi:
+1550/150908: 0.347178
+Training on nhái:
+1600/150908: 0.307814
+Training on nhùi:
+1650/150908: 0.258602
+Training on buồng:
+1700/150908: 0.380614
+Training on c:
+1750/150908: 0.345446
+Training on căng:
+1800/150908: 0.451264
+Training on quả:
+1850/150908: 0.303578
+Training on củ:
+1900/150908: 0.444731
+Training on xoong:
+1950/150908: 0.255262
+Training on vẻ:
+2000/150908: 0.336085
+Training on cáp:
+2050/150908: 0.421548
+Training on cặm:
+2100/150908: 0.654565
+Training on cộng:
+2150/150908: 0.411334
+Training on cd-rom:
+2200/150908: 0.682338
+Training on đằng:
+2250/150908: 0.529855
+Training on chấm:
+2300/150908: 0.501967
+Training on chẩu:
+2350/150908: 0.458569
+Training on chếnh:
+2400/150908: 0.336688
+Training on trỏ:
+2450/150908: 0.459198
+Training on lỉm:
+2500/150908: 0.470467
+Training on ghẹo:
+2550/150908: 0.463192
+Training on rường:
+2600/150908: 0.488110
+Training on lét:
+2650/150908: 0.526746
+Training on lùn:
+2700/150908: 0.397689
+Training on clo:
+2750/150908: 0.596126
+Training on ranh:
+2800/150908: 0.563760
+Training on gắng:
+2850/150908: 0.599677
+Training on cỡ:
+2900/150908: 0.429102
+Training on cùi:
+2950/150908: 0.657803
+Training on nự:
+3000/150908: 0.347161
+Training on thuộc:
+3050/150908: 0.540451
+Training on dãy:
+3100/150908: 0.468611
+Training on dẩu:
+3150/150908: 0.471755
+Training on dĩa:
+3200/150908: 0.380980
+Training on dạc:
+3250/150908: 0.276637
+Training on duỗi:
+3300/150908: 0.400593
+Training on sảnh:
+3350/150908: 0.441065
+Training on ghen:
+3400/150908: 0.370192
+Training on đìa:
+3450/150908: 0.407843
+Training on trùi:
+3500/150908: 0.329461
+Training on rệp:
+3550/150908: 0.345171
+Training on riệt:
+3600/150908: 0.245141
+Training on đụ:
+3650/150908: 0.308663
+Training on hèm:
+3700/150908: 0.307459
+Training on êu:
+3750/150908: 0.947029
+Training on gãi:
+3800/150908: 1.971193
+Training on guốc:
+3850/150908: 0.493125
+Training on khụ:
+3900/150908: 0.576537
+Training on giặm:
+3950/150908: 0.343760
+Training on gin:
+4000/150908: 0.566702
+Training on nhọn:
+4050/150908: 0.673442
+Training on gườm:
+4100/150908: 0.412637
+Training on hattrick:
+4150/150908: 0.295886
+Training on húp:
+4200/150908: 0.312174
+Training on thiêm:
+4250/150908: 0.595012
+Training on nghinh:
+4300/150908: 0.357365
+Training on quẹt:
+4350/150908: 0.519313
+Training on nhu:
+4400/150908: 0.461393
+Training on jiujitsu:
+4450/150908: 1.857483
+Training on khá:
+4500/150908: 0.486650
+Training on khiu:
+4550/150908: 0.299662
+Training on khìn:
+4600/150908: 0.193048
+Training on khua:
+4650/150908: 0.247664
+Training on kiếng:
+4700/150908: 0.346869
+Training on nhai:
+4750/150908: 0.553670
+Training on xường:
+4800/150908: 0.265404
+Training on mẩn:
+4850/150908: 0.456502
+Training on lẻn:
+4900/150908: 0.225681
+Training on lim:
+4950/150908: 0.296523
+Training on logo:
+50

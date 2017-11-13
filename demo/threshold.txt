@@ -1,0 +1,24 @@
+thethaovanhoa : 10
+baoanhdantocmiennui: 10
+baobacgiang: 8
+baobacninh: 8
+baocantho: 8
+baodaknong: 10
+baodienbien: 5
+baodongnai: 8
+baohagiang: 5
+baohaiphong: 5
+baohatinh : 5
+baokiengiang: 10
+baolaichau: 5
+baolamdong: 10
+baoninhthuan: 10
+baothaibinh: 5
+baothanhhoa: 5
+baotintuc: 10
+baotuyenquang: 10
+baovinhphuc: 10
+baoyenbai: 10
+bnews: 10
+khoahoctoday: 10
+phapluat: 10
