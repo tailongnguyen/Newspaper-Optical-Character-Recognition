@@ -1,7 +1,7 @@
 # VN Newspaper Digitalization
 
 
-Using deep learning to extract text from Vietnamese digital newspaper. This work is inspired from this [article](). 
+Using deep learning to extract text from Vietnamese digital newspaper. This work is inspired from this [article](https://arxiv.org/pdf/1506.04395.pdf). 
 
 ## Code explaination
 Training data is generated automatically when training from a prior text file contain text samples.
@@ -22,7 +22,7 @@ warpctc (for training only)
 
 ### Usage
 
-I have not refined the code for training becauase installing warpctc is so complicated, but you can download [pretrained weights]() for testing purpose.
+I have not refined the code for training becauase installing warpctc is so complicated, but you can use pretrained weights for testing purpose.
 
 Run:
 
