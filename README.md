@@ -3,12 +3,12 @@
 
 Using deep learning to extract text from Vietnamese digital newspaper. This work is inspired from this [article](https://arxiv.org/pdf/1506.04395.pdf). 
 
-## Code explaination
-Training data is generated automatically when training from a prior text file contain text samples.
-The model input is width-dynamic but have a fixed height of 32. The workflow is image -> paragraphs -> lines -> preprocessing -> recognition.
+## Pipeline
+Training data is generated automatically when training from a prior text file containing text samples.
+The model input is width-dynamic but have a fixed height of 32. The workflow is image -> blocks containing paragraphs -> lines -> preprocessing -> recognition.
 
 
-### Prerequisites
+### Dependencies
 
 
 ```
@@ -66,6 +66,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* The CRNN code implemented in keras is obsolete, you might want to re-implement it by your self and switch from warpctc to built-in ctc loss of keras.
